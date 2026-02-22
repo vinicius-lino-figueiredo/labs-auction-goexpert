@@ -38,4 +38,8 @@ fechado ou aberto na rotina de novos lançes (bid) já está implementado.
 - O código-fonte completo da implementação.
 - Documentação explicando como rodar o projeto em ambiente dev.
 - Utilize docker/docker-compose para podermos realizar os testes de sua
-  aplicação.
+
+---
+
+O projeto originalmente já tinha um docker sompose. O teste preexistente falha,
+mas o da minha entrega passa.
